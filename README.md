@@ -1,3 +1,6 @@
+## Changes from original repo:
+- Added support for Sprite Renderer
+
 # Lottie Player
 [![openupm](https://img.shields.io/npm/v/com.gilzoide.lottie-player?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.gilzoide.lottie-player/)
 
